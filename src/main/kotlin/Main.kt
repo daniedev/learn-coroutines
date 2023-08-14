@@ -1,7 +1,11 @@
-import learncoroutines.makeBulkRequestsUsingCoroutines
+import learncoroutines.concept1.makeBulkRequestsUsingCoroutines
 
 /**
-    try out the functions available in [learncoroutines] here
+    try out the code snippets available in [learncoroutines] here
+
+    example: [learncoroutines.concept1.makeBulkRequestsUsingCoroutines]
+
+
  */
 
 fun main() {

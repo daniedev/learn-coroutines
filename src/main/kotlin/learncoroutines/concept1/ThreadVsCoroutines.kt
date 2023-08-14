@@ -1,4 +1,4 @@
-package learncoroutines
+package learncoroutines.concept1
 
 import kotlinx.coroutines.*
 import kotlin.concurrent.thread
