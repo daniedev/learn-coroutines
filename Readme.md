@@ -18,5 +18,6 @@ if you wish to try out the code snippets discussed here.
 
 1. [Thread Vs Coroutine](src/main/kotlin/learncoroutines/concept1)
 2. [Kotlin Sequence](src/main/kotlin/learncoroutines/concept2)
+3. [Lambda with a receiver](src/main/kotlin/learncoroutines/concept3)
 
 
